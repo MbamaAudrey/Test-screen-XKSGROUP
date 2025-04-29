@@ -1,4 +1,3 @@
-// lib/main.dart
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:screen_test/presentation/routes/app_router.dart';

@@ -1,4 +1,3 @@
-// lib/presentation/routes/app_router.dart
 import 'package:auto_route/auto_route.dart';
 import '../../domain/entities/article.dart';
 import '../pages/article_list_page.dart';

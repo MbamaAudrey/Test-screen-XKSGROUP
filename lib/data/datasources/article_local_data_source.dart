@@ -1,4 +1,3 @@
-// lib/data/datasources/article_local_data_source.dart
 import '../models/article_model.dart';
 
 abstract class ArticleLocalDataSource {

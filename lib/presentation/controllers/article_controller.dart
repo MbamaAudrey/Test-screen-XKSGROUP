@@ -1,4 +1,3 @@
-// lib/presentation/controllers/article_controller.dart
 import 'package:get/get.dart';
 import '../../domain/entities/article.dart';
 import '../../domain/repositories/get_articles.dart';
